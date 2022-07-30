@@ -38,4 +38,6 @@ Use the `.env.sample` to create a `.env` file with your Spotify credentials then
 - [ ] Implement library and search screen
 - [ ] Refacto
 - [ ] Implement track playing
+- [ ] Animate the list
+- [ ] Improve Bottom Tab Animation
 - [ ] And more
